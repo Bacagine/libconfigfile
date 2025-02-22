@@ -9,6 +9,7 @@ libconfigfile is a C library created to read a .conf files
 `# make install`
 
 ## Test
+`$ make test`
 
 `$ make run`
 
